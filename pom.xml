@@ -3,26 +3,4 @@
     <groupId>math</groupId>
     <artifactId>math</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    
-    <repositories>  
-		<repository>  
-			<id>my-repo</id>  
-			<name>my repository</name>  
-			<url>http://repo1.maven.org/maven2/</url>  
-			<releases>  
-			  <enabled>true</enabled>  
-			</releases>  
-			<snapshots>  
-			  <enabled>true</enabled>  
-			</snapshots>  
-		</repository>  
-	</repositories>
-  
-    <dependencies>
-		<dependency>
-			<groupId>org.java.net.substance</groupId>
-			<artifactId>substance</artifactId>
-			<version>6.0</version>
-		</dependency>
-	</dependencies>
 </project>
